@@ -20,8 +20,8 @@ export const HeroSection = () => {
     className="ml-4 w-30 h-30 rounded-full border border-gray-300 shadow-lg object-cover"
   />
   <p className="text-lg md:text-xl text-muted-foreground">
-    I am currently majoring in Computer Science and Data Science at Purdue University and I am passionate about software engineering and machine learning. 
-    Outside of classes, I enjoy cooking and listening to New Jeans.
+    I am currently a junior in Computer Science at Purdue University.
+    I am looking for SWE Internship in summer 2026 so feel free to connect.
   </p>
 </div>
 

@@ -3,18 +3,19 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Huy_chatbot",
+    title: "HuyChatbot",
     description:
-        "Chatbot",
-    tags: ["React", "Node.js", "OpenAI API", "JavaScript", "TypeScript", "HTML/CSS"],
-    githubUrl: "https://github.com/BlluryFace/Mentis.AI",
+        "Personal AI chatbot",
+    image: "/projects/project1.png",
+    tags: ["Node.js", "Express.js","OpenAI API", "JavaScript", "TypeScript", "HTML/CSS"],
+    githubUrl: "https://github.com/huyvu38/HuyChatbot",
   },
   {
     id: 2,
     title: "Mentis.AI",
     description:
         "Fullstack web application to provides emotional support through guided journaling, daily mood tracking and self-reflection tools.",
-    image: "/projects/project3.png",
+    image: "/projects/project2.png",
     tags: ["React", "Node.js", "Express","Spotify API", "OpenAI API", "PostgreSQL"],
     githubUrl: "https://github.com/BlluryFace/Mentis.AI",
   },
@@ -23,14 +24,14 @@ const projects = [
     title: "Fruit Detection",
     description:
         "Android mobile phone application that identifies fruit types based on shape and color.",
-    image: "/projects/project2.png",
+    image: "/projects/project3.png",
     tags: ["Java", "Python", "PHP", "OpenCV" ],
   },
   {
     id: 4,
     title: "Connection Space",
     description: "Social media platform for connecting with friends and sharing content.",
-    image: "/projects/project1.png",
+    image: "/projects/project4.png",
     tags: ["Java"],
     githubUrl: "https://github.com/huyvu38/Connection-Space",
   },
